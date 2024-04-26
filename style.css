@@ -369,3 +369,60 @@ padding-bottom: 30px; /* Задаємо внутрішний відступ зн
 .main-soc-icon {
   fill: #f4f4fd;
 }
+
+
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+
+}
+
+.footer-up {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+
+
+}
+
+.footer-left {
+
+}
+
+.footer-list {
+
+}
+
+.element-footer {
+
+}
+
+.service {
+
+
+}
+
+.service-article {
+  font-size: 24px;
+  line-height: 3;
+color: aliceblue;
+text-decoration: none;
+}
+
+.footer-down {
+font-size: 40px;
+line-height: 1.9;
+}
+
+.footer-lox{
+  display: flex;
+  flex-direction:row ;
+  justify-content:space-between
+}
+
+.service-article-2 {
+  font-size: 24px;
+  color: aliceblue;
+}
